@@ -29,7 +29,10 @@
 - LLM Workflow
 - Production grade workflow
 
+### [06. Parallel Workflows](06-parallel-workflows/)
 
+- Simple Workflow
+- LLM Workflow
 
 
 ---
