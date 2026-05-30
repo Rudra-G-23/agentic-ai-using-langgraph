@@ -34,6 +34,15 @@
 - Simple Workflow
 - LLM Workflow
 
+### [07. Conditional Workflows](07-conditional-workflows/)
+
+- Simple Quadratic Workflows
+- Sentiment Reply Workflows
+
+### [08. Iterative Workflows](08-iterative-workflows/)
+
+- X Post Generator
+
 
 ---
 
