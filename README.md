@@ -17,8 +17,11 @@
 
 - How to create agentic Workflow
 
+### [04. LangGraph Core Concepts](04-core-concepts/)
 
-
+- LLM Workflows
+- Graphs, Nodes, Edges
+- State, Reduces
 
 
 
@@ -30,6 +33,7 @@
 **Rudra Prasad Bhuyan**
 
 > Portfolio: https://rudra-g-23.github.io/
+> Linkedin: https://www.linkedin.com/in/rudraprasadbhuyan/
 
 <!-- Two Master Repo Links -->
 <p align="center">
