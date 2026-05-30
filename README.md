@@ -23,6 +23,8 @@
 - Graphs, Nodes, Edges
 - State, Reduces
 
+### [05. Sequential Workflows](05-sequential-workflows/)
+
 
 
 
