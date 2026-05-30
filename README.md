@@ -25,6 +25,10 @@
 
 ### [05. Sequential Workflows](05-sequential-workflows/)
 
+- Simple Sequential Workflow
+- LLM Workflow
+- Production grade workflow
+
 
 
 
