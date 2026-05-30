@@ -1,6 +1,6 @@
 # 🦜🔗 Agentic AI using LangGraph
 
-> [!IMPORTANT] - LangChain Notes
+> [!IMPORTANT]
 > **Generative AI using LangChain** - My [Repo](https://github.com/Rudra-G-23/generative-ai-using-langchain/)
 
 ---
@@ -13,6 +13,15 @@
 
 - What is Agentic AI
 
+### [03. Agentic Workflow](03-agentic-workflow/)
+
+- How to create agentic Workflow
+
+
+
+
+
+
 
 ---
 
@@ -21,7 +30,6 @@
 **Rudra Prasad Bhuyan**
 
 > Portfolio: https://rudra-g-23.github.io/
-
 
 <!-- Two Master Repo Links -->
 <p align="center">
