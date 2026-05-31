@@ -1,7 +1,7 @@
 # 🦜🔗 Agentic AI using LangGraph
 
 > [!IMPORTANT]
-> **Generative AI using LangChain** - My [Repo](https://github.com/Rudra-G-23/generative-ai-using-langchain/)
+> **Generative AI using LangChain** - [Repo](https://github.com/Rudra-G-23/generative-ai-using-langchain/)
 
 ---
 
@@ -44,14 +44,23 @@
 - X Post Generator
 
 
+### [09. Simple Chatbot](09-simple-chatbot/)
+
+- Simple Chatbot
+- Chatbot with nice terminal output
+  
+
+
+
+
 ---
 
 ## 🧑‍💻 Author
 
 **Rudra Prasad Bhuyan**
 
-> Portfolio: https://rudra-g-23.github.io/
-> Linkedin: https://www.linkedin.com/in/rudraprasadbhuyan/
+- Portfolio: https://rudra-g-23.github.io/
+- Linkedin: https://www.linkedin.com/in/rudraprasadbhuyan/
 
 <!-- Two Master Repo Links -->
 <p align="center">
