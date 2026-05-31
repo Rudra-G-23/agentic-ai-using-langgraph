@@ -1,7 +1,7 @@
 **What is Agentic AI?**
 Agentic AI is a type of AI that can take the task or goal from user and then work towards completing on its own, with minimal human guidance.
 
-Key Characteristic
+*Key Characteristic*
 - Autonomy
 - Goal Oriented
 - Planning
@@ -9,7 +9,7 @@ Key Characteristic
 - Adaptability
 - Context Awareness
 
-Components
+*Components*
 
 ```mermaid
 graph TD
@@ -22,4 +22,7 @@ graph TD
 
 ---
 
-Sir YT [Link](https://www.youtube.com/watch?v=GWnSsjT4V68&list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL&index=3)
+Resources:
+- [IBM](https://www.ibm.com/think/topics/agentic-ai)
+- [Red Hat](https://www.redhat.com/en/topics/ai/what-is-agentic-ai)
+- Sir YT [Link](https://www.youtube.com/watch?v=GWnSsjT4V68&list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL&index=3)
