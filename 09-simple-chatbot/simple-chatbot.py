@@ -1,9 +1,8 @@
-from langchain_core.messages import HumanMessage
 import os
 from typing import Annotated, TypedDict
 
 from dotenv import load_dotenv
-from langchain_core.messages import BaseMessage
+from langchain_core.messages import BaseMessage, HumanMessage
 from langchain_groq import ChatGroq
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.graph import END, START, StateGraph
@@ -62,5 +61,3 @@ while True:
         {"messages": HumanMessage(content=user_message)}, config=config
     )
     pprint(f"<|AI|>: {response['messages'][-1].content}")
-
-

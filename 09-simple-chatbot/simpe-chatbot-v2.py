@@ -52,7 +52,8 @@ graph.add_edge(START, "chat_node")
 graph.add_edge("chat_node", END)
 
 chatbot = graph.compile(checkpointer=checkpointer)
-
+print(chatbot.get_graph().print_ascii())
+print(chatbot.get_graph().draw_mermaid())
 
 thread_id = "rudra-chat-thread"
 config = {"configurable": {"thread_id": thread_id}}

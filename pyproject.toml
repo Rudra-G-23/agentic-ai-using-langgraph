@@ -1,7 +1,7 @@
 [project]
 name = "agentic-ai-using-langgraph"
 version = "0.1.0"
-description = "My notes on langgraph"
+description = "My notes on LangGraph."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
